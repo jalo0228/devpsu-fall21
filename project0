@@ -1,8 +1,0 @@
-# DevPSU Fall 2021
-echo "# devpsu-fall21" >> README.md
-git init
-git add README.md
-git commit -m "your message here" 
-git branch -M main
-git remote add origin https://github.com/jalo0228/devpsu-fall21.git
-git push -u origin main
